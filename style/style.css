@@ -1,5 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+
 body{
-  background: black;
-  font-family: Helvetica, Arial, Sans-serif;
+  background: #9966cc;
+  font-family: "ubuntu",Helvetica, Arial, Sans-serif;
   margin: 5%;
 }
+
+.intro{
+  width 100%;
+  text-align: center;
+}
+
+.intro h1{
+  font-size: 4vw;
+}
+
+.about{
+  padding: 0 10%;
+  
+  
+}
+
+.about h2{
+  font-size: 3vw;
+  padding: 0 5%;
+}
+
+.about ul li{
+  font-size: 2vw; 
+}
+
+.cat{
+  padding: 1% 5%;
+  
+  text-align:center;
+}
+
+.cat h2{
+  font-size: 3vw;
+}
+
+.imgcont{
+}
+.imgcont img{
+  width: 25%;
+  padding: 0 5%;
+  height: auto;
+}
+  
